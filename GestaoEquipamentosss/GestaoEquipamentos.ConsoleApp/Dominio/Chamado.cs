@@ -50,8 +50,7 @@ namespace GestaoEquipamentos.ConsoleApp.Dominio
         {
             Chamado chamado = (Chamado)obj;
 
-            if (id == chamado.id)
-
+            if (chamado != null && id == chamado.id)
                 return true;
             else
                 return false;
