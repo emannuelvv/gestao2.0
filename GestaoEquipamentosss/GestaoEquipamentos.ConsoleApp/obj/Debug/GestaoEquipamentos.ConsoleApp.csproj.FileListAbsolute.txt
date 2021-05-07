@@ -1,0 +1,21 @@
+D:\Repositórios\GestaoEquipamentos\GestaoEquipamentos.ConsoleApp\bin\Debug\GestaoEquipamentos.ConsoleApp.exe.config
+D:\Repositórios\GestaoEquipamentos\GestaoEquipamentos.ConsoleApp\bin\Debug\GestaoEquipamentos.ConsoleApp.exe
+D:\Repositórios\GestaoEquipamentos\GestaoEquipamentos.ConsoleApp\bin\Debug\GestaoEquipamentos.ConsoleApp.pdb
+D:\Repositórios\GestaoEquipamentos\GestaoEquipamentos.ConsoleApp\obj\Debug\GestaoEquipamentos.ConsoleApp.csprojAssemblyReference.cache
+D:\Repositórios\GestaoEquipamentos\GestaoEquipamentos.ConsoleApp\obj\Debug\GestaoEquipamentos.ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Repositórios\GestaoEquipamentos\GestaoEquipamentos.ConsoleApp\obj\Debug\GestaoEquipamentos.ConsoleApp.exe
+D:\Repositórios\GestaoEquipamentos\GestaoEquipamentos.ConsoleApp\obj\Debug\GestaoEquipamentos.ConsoleApp.pdb
+C:\Users\marce\Downloads\GestaoEquipamentos-master (2)\GestaoEquipamentos-master\GestaoEquipamentos.ConsoleApp\bin\Debug\GestaoEquipamentos.ConsoleApp.exe.config
+C:\Users\marce\Downloads\GestaoEquipamentos-master (2)\GestaoEquipamentos-master\GestaoEquipamentos.ConsoleApp\bin\Debug\GestaoEquipamentos.ConsoleApp.exe
+C:\Users\marce\Downloads\GestaoEquipamentos-master (2)\GestaoEquipamentos-master\GestaoEquipamentos.ConsoleApp\bin\Debug\GestaoEquipamentos.ConsoleApp.pdb
+C:\Users\marce\Downloads\GestaoEquipamentos-master (2)\GestaoEquipamentos-master\GestaoEquipamentos.ConsoleApp\obj\Debug\GestaoEquipamentos.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\marce\Downloads\GestaoEquipamentos-master (2)\GestaoEquipamentos-master\GestaoEquipamentos.ConsoleApp\obj\Debug\GestaoEquipamentos.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\marce\Downloads\GestaoEquipamentos-master (2)\GestaoEquipamentos-master\GestaoEquipamentos.ConsoleApp\obj\Debug\GestaoEquipamentos.ConsoleApp.exe
+C:\Users\marce\Downloads\GestaoEquipamentos-master (2)\GestaoEquipamentos-master\GestaoEquipamentos.ConsoleApp\obj\Debug\GestaoEquipamentos.ConsoleApp.pdb
+D:\AcademiaProgramador\GestaoEquipamentos\GestaoEquipamentosss\GestaoEquipamentos.ConsoleApp\bin\Debug\GestaoEquipamentos.ConsoleApp.exe.config
+D:\AcademiaProgramador\GestaoEquipamentos\GestaoEquipamentosss\GestaoEquipamentos.ConsoleApp\bin\Debug\GestaoEquipamentos.ConsoleApp.exe
+D:\AcademiaProgramador\GestaoEquipamentos\GestaoEquipamentosss\GestaoEquipamentos.ConsoleApp\bin\Debug\GestaoEquipamentos.ConsoleApp.pdb
+D:\AcademiaProgramador\GestaoEquipamentos\GestaoEquipamentosss\GestaoEquipamentos.ConsoleApp\obj\Debug\GestaoEquipamentos.ConsoleApp.csprojAssemblyReference.cache
+D:\AcademiaProgramador\GestaoEquipamentos\GestaoEquipamentosss\GestaoEquipamentos.ConsoleApp\obj\Debug\GestaoEquipamentos.ConsoleApp.csproj.CoreCompileInputs.cache
+D:\AcademiaProgramador\GestaoEquipamentos\GestaoEquipamentosss\GestaoEquipamentos.ConsoleApp\obj\Debug\GestaoEquipamentos.ConsoleApp.exe
+D:\AcademiaProgramador\GestaoEquipamentos\GestaoEquipamentosss\GestaoEquipamentos.ConsoleApp\obj\Debug\GestaoEquipamentos.ConsoleApp.pdb
